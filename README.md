@@ -7,5 +7,4 @@
   <a href="https://www.youtube.com/channel/UCyo7IiN1hANaCNzlSqzxk1A" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://instagram.com/bbq.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/baybeku" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a target"blank_"><img src="https://img.shields.io/badge/its bbq%20-d32936.svg?&style=for-the-badge&logo=riotgames&logoColor=white"></a>
 </p>
