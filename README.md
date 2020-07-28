@@ -4,5 +4,5 @@
 <p align="center">
   <a href="https://discord.gg/NXz5GQY">Serendia Squad</a>
   |
-  <a href="https://discord.com/users/298888568279924746">My Discord Profile</a>
+  <a href="https://discord.com/users/298888568279924746"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
