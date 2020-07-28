@@ -1,7 +1,7 @@
 <p align="center">Welcome to BBQ's profile</p>
 <hr>
-<div style="float:center; item-align:center">
-<img src="https://github-readme-stats.vercel.app/api?username=baybeku&theme=dark" style="float:center;">
+<div style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="https://github-readme-stats.vercel.app/api?username=baybeku&theme=dark">
 </div>
 <hr>
 <p align="center">
