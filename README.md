@@ -1,4 +1,4 @@
-<p align="center">Welcome to BBQ's profile</p>
+<h2 align="center">Welcome to BBQ's profile</h2>
 <p align="center"><samp>Merhaba ben BBQ yani gerçek ismimle Tuna, 15 yaşındayım javascript ile uğraşıyorum bilgimin yettiğince projeler yapıyorum daha çok Discord Bot ve Website yapmakla ilgileniyorum.<samp></>
 <hr>
 <p align="center">
