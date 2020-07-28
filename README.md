@@ -1,6 +1,6 @@
 <p align="center">Welcome to BBQ's profile</p>
 <hr>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=baybeku)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=baybeku" align="center">
 <hr>
 <p align="center">
   <a href="https://discord.gg/NXz5GQY">Serendia Squad</a>
