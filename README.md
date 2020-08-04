@@ -1,4 +1,4 @@
-<h2 align="center">Hello There 👋</h2>
+<h2 align="center">Hi there 👋</h2>
 <p align="center">
   <a href="https://discord.gg/NXz5GQY target"blank_""><img src="https://img.shields.io/badge/Serendia%20Squad%20-1d202b.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <br>
