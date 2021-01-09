@@ -2,10 +2,10 @@
 <p align="center">
   <a href="https://discord.com/users/298888568279924746" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/p2e06hpeon4i4dha2c17oppue" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/baybeku" target"blank_"><img src="https://img.shields.io/badge/reddit%20-ff3b00.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
+  <a href="https://www.reddit.com/user/barbecue" target"blank_"><img src="https://img.shields.io/badge/reddit%20-ff3b00.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCyo7IiN1hANaCNzlSqzxk1A" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://instagram.com/bbq.js" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/baybeku" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/bbq.dll" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://github.com/barbecue" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <br />
 <h3 align="center">Languages & Tools/Platforms:<h3>
@@ -22,6 +22,6 @@
 <br />
 <h3 align="center">GitHub Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baybeku&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baybeku&theme=dark&count_private=true&show_icons=true&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=barbecue&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbecue&theme=dark&count_private=true&show_icons=true&hide_border=true" /> -->
 </p>
