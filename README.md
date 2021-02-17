@@ -11,7 +11,7 @@
 <h3>Talking about Personal Stuffs:</h3>
 <ul>
   <li>💻 I’m currently working on a cool project 😎</li>
-  <li>⚛️ I’m currently learning nothing.</li>
+  <li>⚛️ I’m currently learning PWA.</li>
   <li>📫 You can reach me from <a href="https://discord.com/users/298888568279924746" target"blank_">Discord</a> or <a href="https://instagram.com/banbeku" target="_blank">Instagram</a>.</li>
 </ul>
 <h3>Languages and Tools:</h3>
