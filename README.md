@@ -6,8 +6,8 @@
    <a href="https://instagram.com/banbeku" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/barbecue" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-<h1 align="center">Projeler</h1>
 <div align="center">
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/298888568279924746)](https://discord.com/users/298888568279924746)
+   <a href="https://discord.com/users/298888568279924746" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/298888568279924746">
+   </a>
 </div>
