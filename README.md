@@ -9,9 +9,5 @@
 
 <h1 align="center">Projeler</h1>
 <div align="center">
-   <a href="https://codesty.org/">
-      <img style="width: 50px;" src="https://github.com/barbecue/barbecue/blob/master/media/codesty_150x150.png?raw=true">
-      <h3>Codesty</h3>
-      <a>Codesty projesinde <a href="https://codesty.org/bot">Bot</a> ve <a href="https://codesty.org/extension">Eklenti</a> geliştiricisiyim.</a>
-   </a>
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/298888568279924746)](https://discord.com/users/298888568279924746)
 </div>
